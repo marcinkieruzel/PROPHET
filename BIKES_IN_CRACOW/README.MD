@@ -19,6 +19,9 @@ W pliku `bikes.csv` znajduje się duża baza danych na temat ruchu rowerowego w 
 3. **Analiza korelacji**
    - Zbadaj korelację między ruchem rowerowym a temperaturą i ilością opadów
    - Stwórz wykresy rozrzutu i macierz korelacji
+  
+4. **Regresor**
+   - Sprobuj dodac regresor w postaci temperatury
 
 ## Wymagania
 
